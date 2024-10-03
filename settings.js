@@ -17,7 +17,7 @@ global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
 global.ownernumber = '255754952278'  //creator number
-global.ownername = '🐛Triorish' //owner name
+global.ownername = '🐛music God' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
